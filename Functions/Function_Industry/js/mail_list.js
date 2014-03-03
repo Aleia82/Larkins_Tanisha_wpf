@@ -9,7 +9,15 @@ alert("PLease enter Your first, middle, and last Name");
             var lastName =prompt("please enter your last name");
             var fullName = firstName+" "+middleName+" "+lastName;
             alert("You have entered"+ fullName + " as as you full name")
-
+            var confirmName=confirm("Is your information correct");
+            if (fullName==true)
+            {
+               end;
+            }
+            else
+            {
+                userInput();
+            }
 
 }
 
