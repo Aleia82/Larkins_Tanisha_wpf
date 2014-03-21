@@ -14,4 +14,4 @@ var phoneNumber =prompt ("Callers Phone number");
 var message = prompt("Please enter message to recipient");
 
 alert("The message " + message +" has been recorded for  "+ recipient + ".  The number to return this call is " + phoneNumber);
-alert("Thank you " + recorder + "," + recipient + " Will get this message in a moment")
+alert("Thank you " + recorder + "," + recipient + " Will get this message in a moment");

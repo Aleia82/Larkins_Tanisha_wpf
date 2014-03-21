@@ -25,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="homeLoan.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conditionals/Industry/js/homeLoan.js">
+      <file leaf-file-name="future.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conditionals/Wacky/js/future.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="100" selection-start="2883" selection-end="2883" vertical-scroll-proportion="0.8060345" vertical-offset="99" max-vertical-offset="795">
+            <state line="35" column="6" selection-start="1438" selection-end="1438" vertical-scroll-proportion="0.7404795" vertical-offset="0" max-vertical-offset="709">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conditionals/Industry/index.html">
+        <entry file="file://$PROJECT_DIR$/Conditionals/Wacky/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="44" selection-start="115" selection-end="115" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+            <state line="5" column="7" selection-start="137" selection-end="137" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -71,8 +71,8 @@
         <option value="$PROJECT_DIR$/Conditionals/Industry/homeLoan.js" />
         <option value="$PROJECT_DIR$/Conditionals/Industry/index.html" />
         <option value="$PROJECT_DIR$/Conditionals/Wacky/index.html" />
-        <option value="$PROJECT_DIR$/Conditionals/Wacky/js/future.js" />
         <option value="$PROJECT_DIR$/Conditionals/Industry/js/homeLoan.js" />
+        <option value="$PROJECT_DIR$/Conditionals/Wacky/js/future.js" />
       </list>
     </option>
   </component>
@@ -139,22 +139,8 @@
               <option name="myItemId" value="Conditionals" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Larkins_Tanisha_wpf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Larkins_Tanisha_wpf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Conditionals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Industry" />
+              <option name="myItemId" value="Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -172,11 +158,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Industry" />
+              <option name="myItemId" value="Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Larkins_Tanisha_wpf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Larkins_Tanisha_wpf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -391,30 +391,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals/Wacky/index.html">
+    <entry file="file://$PROJECT_DIR$/Conditionals/Industry/js/homeLoan.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="144" selection-end="144" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals/Wacky/js/future.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="1" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+        <state line="39" column="100" selection-start="2883" selection-end="2883" vertical-scroll-proportion="0.0" vertical-offset="99" max-vertical-offset="795">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="44" selection-start="115" selection-end="115" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+        <state line="4" column="44" selection-start="115" selection-end="115" vertical-scroll-proportion="0.08759124" vertical-offset="0" max-vertical-offset="685">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals/Industry/js/homeLoan.js">
+    <entry file="file://$PROJECT_DIR$/Conditionals/Wacky/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="100" selection-start="2883" selection-end="2883" vertical-scroll-proportion="0.8060345" vertical-offset="99" max-vertical-offset="795">
+        <state line="5" column="7" selection-start="137" selection-end="137" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals/Wacky/js/future.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="6" selection-start="1438" selection-end="1438" vertical-scroll-proportion="0.7404795" vertical-offset="0" max-vertical-offset="709">
           <folding />
         </state>
       </provider>
