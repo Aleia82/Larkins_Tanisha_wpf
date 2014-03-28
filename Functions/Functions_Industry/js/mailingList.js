@@ -7,18 +7,20 @@ function name(){
     confirmNameFirst ? lastName: name();
    var lastName = prompt ("Please enter your Lastname");
     var confirmNameLast = confirm("You entered in " + lastName + " .  Is this correct?");
-    confirmNameLast ? : lastName;
+    confirmNameLast ? address(): lastName;
 
 }
 name();
 
 
 function address(){
-var homeAddress = prompt ("please enter your home address")
+var homeAddress = prompt ("please enter your home address");
     var confirmAddress = confirm("You entered in " + homeAddress + " .  Is this correct?");
-    confirmAddress ? null: address();
+    confirmAddress ? phoneNumber(): address();
 }
 address();
 function phoneNumber(){
-
+    var homeNumber = prompt ("please enter your home address");
+ var confirmNumber = confirm("You entered  " + homeNumber + " .  Is this correct?");
+    confirmNumber ? "Thank you.  You have been added to our mailing list" : phoneNumber();
 }
