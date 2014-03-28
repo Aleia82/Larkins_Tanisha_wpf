@@ -3,17 +3,22 @@
 
 function name(){
    var firstName = prompt("Please enter your Firstname");
-    firstName = confirm("You entered in " + firstName + " .  Is this correct?")? lastName: name;
+    var confirmNameFirst = confirm("You entered in " + firstName + " .  Is this correct?");
+    confirmNameFirst ? lastName: name();
    var lastName = prompt ("Please enter your Lastname");
-    confirm("You entered in " + lastname + " .  Is this correct?")? lastName:;
+    var confirmNameLast = confirm("You entered in " + lastName + " .  Is this correct?");
+    confirmNameLast ? : lastName;
+
 }
 name();
 
 
 function address(){
-
+var homeAddress = prompt ("please enter your home address")
+    var confirmAddress = confirm("You entered in " + homeAddress + " .  Is this correct?");
+    confirmAddress ? null: address();
 }
-
+address();
 function phoneNumber(){
 
 }
